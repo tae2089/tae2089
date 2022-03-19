@@ -35,7 +35,7 @@
 </div>
 
 ### Tools
-<div style="display:flex;">
+<div style="display:flex;flex-direction: row;">
 <div>
 <img alt="aws" src ="https://img.shields.io/badge/Amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img alt="gcp" src ="https://img.shields.io/badge/Googlecloud-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white"/>
