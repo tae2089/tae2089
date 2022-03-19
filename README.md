@@ -25,7 +25,7 @@
 </div>
 ### Tools
 <div>
-<img alt="aws" src ="https://img.shields.io/badge/Aws-232F3E.svg?&style=for-the-badge&logo=aws&logoColor=white"/>
+<img alt="aws" src ="https://img.shields.io/badge/Amazoneaws-232F3E.svg?&style=for-the-badge&logo=amazoneaws&logoColor=white"/>
 <img alt="gcp" src ="https://img.shields.io/badge/Googlecloud-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img alt="docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
