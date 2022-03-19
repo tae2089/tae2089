@@ -21,6 +21,7 @@
 <a href="https://velog.io/@tae2089"><img alt="velog" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white"/></a>
 <a href="https://blog.naver.com/tae2089"><img alt="naver" src ="https://img.shields.io/badge/Naver-03C75A.svg?&style=for-the-badge&logo=velog&logoColor=white"/></a>
 </div>
+
 ## 💪 스킬
 ### Platform & Language
 <div>
