@@ -11,20 +11,23 @@
 
 ## 💪 스킬
 ### Platform & Language
-
+<div>
 <img alt="golang" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
 <img alt="python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 <img alt="javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+</div>
 <img alt="react" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
-
 <img alt="swift" src ="https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
 <img alt="ios" src ="https://img.shields.io/badge/Ios-000000.svg?&style=for-the-badge&logo=ios&logoColor=white"/>
+  
 ### Tools
+<div>
 <img alt="aws" src ="https://img.shields.io/badge/Aws-232F3E.svg?&style=for-the-badge&logo=aws&logoColor=white"/>
 <img alt="gcp" src ="https://img.shields.io/badge/Googlecloud-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img alt="docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+</div>
 <img alt="jenkins" src ="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img alt="ansible" src ="https://img.shields.io/badge/Ansible-EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>
 <img alt="git" src ="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
