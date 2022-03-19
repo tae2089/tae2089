@@ -12,6 +12,7 @@
 ## 💪 스킬
 ### Platform & Language
 <div>
+  
 <img alt="golang" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
 <img alt="python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -25,7 +26,7 @@
 </div>
 ### Tools
 <div>
-<img alt="aws" src ="https://img.shields.io/badge/Amazoneaws-232F3E.svg?&style=for-the-badge&logo=amazoneaws&logoColor=white"/>
+<img alt="aws" src ="https://img.shields.io/badge/Amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img alt="gcp" src ="https://img.shields.io/badge/Googlecloud-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img alt="docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
