@@ -12,5 +12,5 @@
 ## 💪 스킬
 ### Platform & Language
 
-<img alt="golang" src ="https://img.shields.io/badge/Go-#00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
+<img alt="golang" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
 ### Tools
