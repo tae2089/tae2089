@@ -14,15 +14,12 @@
 <div>
   
 <img alt="golang" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
-<img alt="python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 </div>
 <div>
 <img alt="javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
 <img alt="react" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
-<img alt="swift" src ="https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
-<img alt="ios" src ="https://img.shields.io/badge/Ios-000000.svg?&style=for-the-badge&logo=ios&logoColor=white"/>
 </div>
 ### Tools
 <div>
