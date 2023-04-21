@@ -1,3 +1,9 @@
+<h1 align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=tae2089;Backend+Developer;Devops+Engineer)](https://git.io/typing-svg)
+
+</h1>
+
 ## 👦🏻  자기소개
 👋'안녕하세요. <br/>
 BlockChain labs devops 로 일하고 있습니다. 저는 현재 k8s,ansible 등을 활용해서 devops를 하고 있습니다.<br/>
@@ -29,17 +35,18 @@ BlockChain labs devops 로 일하고 있습니다. 저는 현재 k8s,ansible 등
 <img alt="golang" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
 <img alt="java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
-<img alt="k8s" src ="https://img.shields.io/badge/kubernetes-#326CE5.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
+<img alt="terraform" src ="https://img.shields.io/badge/terraform-7B42BC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>  
 </div>
 
-asdasd
 ### Tools
 <div style="display:flex;flex-direction: row;">
 <div>
 <img alt="aws" src ="https://img.shields.io/badge/Amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img alt="gcp" src ="https://img.shields.io/badge/Googlecloud-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img alt="docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white"/>
 </div>
+  
 <div>
 <img alt="jenkins" src ="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img alt="ansible" src ="https://img.shields.io/badge/Ansible-EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>
