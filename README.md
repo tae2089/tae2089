@@ -29,12 +29,10 @@ BlockChain labs devops 로 일하고 있습니다. 저는 현재 k8s,ansible 등
 <img alt="golang" src ="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
 <img alt="java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
-</div>
-<div>
-<img alt="javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
-<img alt="react" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+<img alt="k8s" src ="https://img.shields.io/badge/kubernetes-#326CE5.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 </div>
 
+asdasd
 ### Tools
 <div style="display:flex;flex-direction: row;">
 <div>
@@ -45,6 +43,7 @@ BlockChain labs devops 로 일하고 있습니다. 저는 현재 k8s,ansible 등
 <div>
 <img alt="jenkins" src ="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img alt="ansible" src ="https://img.shields.io/badge/Ansible-EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>
+  
 <img alt="git" src ="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="jira" src ="https://img.shields.io/badge/jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
 </div>
