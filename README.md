@@ -6,11 +6,12 @@
 
 ## 👦🏻  자기소개
 👋'안녕하세요. <br/>
-BlockChain labs devops 로 일하고 있습니다. 저는 현재 k8s,ansible 등을 활용해서 devops를 하고 있습니다.<br/>
+Doodlin에서 devops engineer 로 일하고 있습니다. 저는 현재 k8s,ansible 등을 활용해서 devops를 하고 있습니다.<br/>
 문제를 다양한 방법으로 해결하는 것을 좋아합니다.
 
 
 ## 👷 경력
+- Doodlin (2024.03 ~ )
 - BlockChain labs(2022.11 ~ 2024.02)
 - 로깃 헬스케어 (2021.03 ~ 2022.11)
 - 사회 공헌 제품 플랫폼 더함 팀원(2020.04 ~ 2021.01)
