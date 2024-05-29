@@ -56,3 +56,8 @@ Doodlin에서 devops engineer 로 일하고 있습니다. 저는 현재 k8s,ansi
 <img alt="jira" src ="https://img.shields.io/badge/jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
 </div>
 </div>
+
+### animals
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/tae2089"/>
+</a>
